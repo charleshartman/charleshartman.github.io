@@ -1,3 +1,3 @@
 ## charleshartman.github.io
 
-working "about" page for charles hartman
+working "about" page for charles a. hartman
