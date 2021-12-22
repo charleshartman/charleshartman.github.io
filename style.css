@@ -12,6 +12,7 @@ body {
   	font-family: 'Raleway', sans-serif;
   	font-size: 15px;
 		line-height: 1.25;
+		letter-spacing: .2px;
   	margin: 70px 140px;
 }
 
@@ -60,5 +61,6 @@ a:hover {
 }
 
 h3 {
+	font-size: 1.12rem;
 	margin-bottom: 8px;
 }
